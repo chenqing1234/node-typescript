@@ -1,0 +1,13 @@
+node_modules
+.vscode
+.idea
+package-lock.json
+webapp
+build
+out.log
+err.log
+*.sql
+upload
+output
+report
+dump.rdb
